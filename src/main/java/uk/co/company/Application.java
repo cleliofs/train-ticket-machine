@@ -1,11 +1,11 @@
-package main.java.uk.co.company;
+package uk.co.company;
 
 import com.google.common.collect.ImmutableList;
-import main.java.uk.co.company.domain.TrainStation;
-import main.java.uk.co.company.domain.TrainStationSearchVO;
-import main.java.uk.co.company.repository.TrainStationRepository;
-import main.java.uk.co.company.service.TicketMachineService;
-import main.java.uk.co.company.service.TicketMachineServiceImpl;
+import uk.co.company.domain.TrainStation;
+import uk.co.company.domain.TrainStationSearchVO;
+import uk.co.company.repository.TrainStationRepository;
+import uk.co.company.service.TicketMachineService;
+import uk.co.company.service.TicketMachineServiceImpl;
 
 import java.io.BufferedReader;
 import java.io.IOException;

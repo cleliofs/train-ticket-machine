@@ -1,4 +1,4 @@
-package main.java.uk.co.company.exception;
+package uk.co.company.exception;
 
 /**
  * A business runtime exception to inform when a train station is not found.

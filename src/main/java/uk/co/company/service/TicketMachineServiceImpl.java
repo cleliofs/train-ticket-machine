@@ -1,9 +1,9 @@
-package main.java.uk.co.company.service;
+package uk.co.company.service;
 
-import main.java.uk.co.company.domain.TrainStation;
-import main.java.uk.co.company.domain.TrainStationSearchVO;
-import main.java.uk.co.company.exception.StationNotFoundException;
-import main.java.uk.co.company.repository.TrainStationRepository;
+import uk.co.company.domain.TrainStation;
+import uk.co.company.domain.TrainStationSearchVO;
+import uk.co.company.exception.StationNotFoundException;
+import uk.co.company.repository.TrainStationRepository;
 
 import java.util.HashSet;
 import java.util.List;

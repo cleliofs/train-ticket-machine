@@ -1,6 +1,6 @@
-package main.java.uk.co.company.repository;
+package uk.co.company.repository;
 
-import main.java.uk.co.company.domain.TrainStation;
+import uk.co.company.domain.TrainStation;
 
 import java.io.Serializable;
 import java.util.List;

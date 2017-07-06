@@ -1,7 +1,7 @@
-package main.java.uk.co.company.service;
+package uk.co.company.service;
 
-import main.java.uk.co.company.domain.TrainStation;
-import main.java.uk.co.company.domain.TrainStationSearchVO;
+import uk.co.company.domain.TrainStation;
+import uk.co.company.domain.TrainStationSearchVO;
 
 import java.util.List;
 import java.util.Set;

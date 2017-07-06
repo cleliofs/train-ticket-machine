@@ -1,4 +1,4 @@
-package main.java.uk.co.company.domain;
+package uk.co.company.domain;
 
 import java.util.Arrays;
 import java.util.List;

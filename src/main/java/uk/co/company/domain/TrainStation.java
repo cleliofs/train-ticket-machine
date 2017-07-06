@@ -1,4 +1,4 @@
-package main.java.uk.co.company.domain;
+package uk.co.company.domain;
 
 /**
  * An Entity to represent train stations.

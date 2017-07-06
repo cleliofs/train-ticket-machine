@@ -1,4 +1,4 @@
-package main.java.uk.co.company.domain;
+package uk.co.company.domain;
 
 import org.apache.commons.lang3.builder.EqualsBuilder;
 import org.apache.commons.lang3.builder.HashCodeBuilder;
